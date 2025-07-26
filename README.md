@@ -8,15 +8,25 @@ A desktop-based airline management system built with **JavaFX**, **FXML**, and *
 
 AirlineManagementSystem/
 ├── src/
+
 │ ├── main/
+
 │ │ ├── java/
+
 │ │ │ └── com/airlinemanagementsystem/
+
 │ │ │ ├── classes/ # Core data models
+
 │ │ │ └── controllers/ # JavaFX controllers for each FXML view
+
 │ │ └── resources/
+
 │ │ ├── Images/ # UI assets
+
 │ │ └── *.fxml # FXML files for JavaFX UI
+
 ├── target/ # Compiled files
+
 └── airlinedatabase.sql # MySQL database schema
 
 ---
